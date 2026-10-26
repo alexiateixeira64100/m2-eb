@@ -76,7 +76,7 @@ export default function Home() {
       <main>
         <section id="accueil" className="hero">
           <motion.div className="hero-heading" style={{ y: titleY, opacity: titleOpacity }}>
-            <div className="hero-kicker eyebrow"><span>Une nouvelle expression du parfum</span><span>Édition 01 — 2026</span></div>
+            <div className="hero-kicker eyebrow"><span>Une toute nouvelle expression du parfum</span><span>Édition 01 — 2026</span></div>
             <h1>INCARNAT</h1>
           </motion.div>
           <div className="hero-aside"><span className="tiny-cross">✳</span><p>Ne se raconte pas.<br />Se ressent.</p></div>
